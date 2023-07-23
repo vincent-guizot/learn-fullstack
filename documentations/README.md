@@ -2,6 +2,8 @@
 
 ## Code untuk db diagram
 
+[ERD](https://dbdiagram.io/d/64bd12c402bd1c4a5e8a575d)
+
 <details>
 
 ```bash
